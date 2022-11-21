@@ -36,6 +36,7 @@ span {
   list-style: none;
   display: flex;
   gap: 3.5rem;
+  font-weight: bold;
 }
 .hero-list-row a {
   text-decoration: none;
