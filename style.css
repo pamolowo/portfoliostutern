@@ -6,6 +6,9 @@
     sans-serif;
   box-sizing: border-box;
 }
+.main{
+  border: 25px solid rgb(130, 242, 86);
+}
 
 .head {
   display: flex;
